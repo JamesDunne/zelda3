@@ -9,3 +9,9 @@
 /tables/old/
 /saves/*.sav
 __pycache__
+*.o
+snes/*.o
+*.sfc
+*.exe
+.depend
+.vs/
